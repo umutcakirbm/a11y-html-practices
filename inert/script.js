@@ -4,4 +4,6 @@
 
   const otherPageEl = document.getElementById('other-page');
   otherPageEl.inert = true;
+
+  setTimeout(() => (otherPageEl.inert = false), 4000);
 })();
