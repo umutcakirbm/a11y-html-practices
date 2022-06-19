@@ -1,6 +1,6 @@
 # a11y The Best HTML Practices
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-m7qfjj)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/a11y-html-best-practices)
 
 ## 1 - Inert Polyfill
 
